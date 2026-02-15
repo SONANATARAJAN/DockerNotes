@@ -1,10 +1,9 @@
-Below is a **complete, beginner-friendly explanation in Markdown (`.md`) format**, written in **simple language**, with **clear flow** and **real-world understanding**.
-You can **copy-paste this directly into a `.md` file** 📄
+ 
 
 ---
 
 ```md
-# Containers in Docker – Complete Beginner Guide
+# Containers in Docker – 
 
 ---
 
@@ -105,14 +104,14 @@ Containers **share the host OS kernel**
 
 ## 6. Containers vs Normal Applications
 
-| Feature | Normal Application | Container |
-|------|------------------|-----------|
-| Installation | Manual | Automated |
-| Environment | Different everywhere | Same everywhere |
-| Dependency conflicts | Very common | No conflicts |
-| Portability | Low | High |
-| Startup time | Slow | Fast |
-| Resource usage | Heavy | Lightweight |
+| Feature              | Normal Application   | Container |
+|------                |-----------------  -  |-----------|
+| Installation         | Manual               | Automated |
+| Environment          | Different everywhere | Same everywhere |
+| Dependency conflicts | Very common          | No conflicts |
+| Portability          | Low                  | High |
+| Startup time         | Slow                 | Fast |
+| Resource usage       | Heavy                | Lightweight |
 
 ---
 
@@ -223,12 +222,6 @@ Docker is the **tool that creates and runs containers**
 - Docker vs Kubernetes
 - Container lifecycle
 - Real project with Docker + CI/CD
-
----
-
- Below is a **full, clean, beginner-friendly explanation** written **exactly like study notes**, in **simple English**, **step-by-step**, and **ready to save as a `.md` file**.
-I’ve expanded **every topic you mentioned** with **clear understanding**, real meaning, and **Docker command mapping**.
-
 ---
 
 ```md
