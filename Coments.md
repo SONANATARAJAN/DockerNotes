@@ -1,10 +1,6 @@
-Perfect 👍
-Below is a **clean, attractive, AI-friendly `docker.md`** with **clear structure, visuals, emojis, callouts, and step-by-step flow**.
-You can **copy–paste directly into `docker.md`**.
+ 
 
----
-
-# 🐳 Docker Notes – Simple, Clear & Practical
+# 🐳 Docker  
 
 > **Purpose:**
 > This document helps you **understand Docker clearly**, avoid confusion between **images vs containers**, handle **ports**, **rebuild safely**, and **run applications confidently**.
