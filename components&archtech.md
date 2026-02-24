@@ -458,15 +458,4 @@ docker stop <container_id>
 * Container → Running app
 
 ---
-
-If you want, I can next give:
-
-* 🔥 Docker Architecture Deep Dive
-* 🔥 Dockerfile Complete Notes
-* 🔥 Docker Networking
-* 🔥 Docker Volumes
-* 🔥 Docker Compose
-* 🔥 Docker Interview Questions
-* 🔥 Docker for CI/CD (Jenkins + Playwright)
-
-Just tell me your next topic 🚀
+ 
